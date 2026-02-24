@@ -181,3 +181,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 Дополнительное изменение 3 для branch1 после слияния
 Новое изменение 1 для branch1 (из второго клона)
 Новое изменение 2 для branch1 (из второго клона)
+Новое изменение 3 для branch1 (из второго клона)
