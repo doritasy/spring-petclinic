@@ -173,6 +173,12 @@ For additional details, please refer to the blog post [Hello DCO, Goodbye CLA: S
 
 The Spring PetClinic sample application is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
 
+
 Модификация 1 для branch2 (вариант 15)
 Модификация 2 для branch2 (вариант 15)
 Модификация 3 для branch2 (вариант 15)
+
+Изменение 1 для branch1 (вариант 15)
+Изменение 2 для branch1 (вариант 15)
+Изменение 3 для branch1 (вариант 15)
+
